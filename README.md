@@ -1,5 +1,4 @@
-**Weather App (React + Open-meteo api)**
-/n
+**Weather App (React + Open-meteo api)**-
 A simple and modern weather application built with **React** that displays real-time weather data using the **Open-Meteo API**.  
 Users can search any city and view its current temperature, humidity, and wind speed 
 ## 🚀 Features
